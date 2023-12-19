@@ -1,0 +1,17 @@
+{
+  "name": "sample-gulp-project",
+  "version": "1.0.0",
+  "description": "Practice project to use task runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
